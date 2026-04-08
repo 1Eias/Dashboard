@@ -1,0 +1,16 @@
+body {
+  background: black;
+  color: white;
+  text-align: center;
+  font-family: Arial;
+}
+.weather {
+  width: 54%;
+  height: 290px;
+  margin: 10px;
+}
+.bitcoin {
+  width: 54%;
+  height: 470px;
+  margin: 10px;
+}
